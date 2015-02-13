@@ -1,0 +1,12 @@
+
+{
+  "name": "thrustMaster",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node thrustMaster.js"
+  },
+  "dependencies": {
+    "node-hid": "^0.3.2"
+  }
+}
