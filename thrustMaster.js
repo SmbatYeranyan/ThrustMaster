@@ -7,6 +7,10 @@ tM.thrustMaster().init({
 	button5: function(data){
 		console.log("button5");
 
+	},	
+	dial: function(data){
+		console.log("dial", data);
+
 	}
 
 });
